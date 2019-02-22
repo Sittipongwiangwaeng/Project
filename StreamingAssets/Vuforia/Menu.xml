@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SampleStamp" size="400.000000 400.000000" />
+    <ImageTarget name="welcomeEvents" size="700.000000 395.000000" />
+    <ImageTarget name="Menu216bit" size="2000.000000 1449.275391" />
+    <ImageTarget name="Menu16bit" size="2000.000000 1384.863159" />
+    <ImageTarget name="HappyBirthday" size="400.000000 327.265717" />
+  </Tracking>
+</QCARConfig>
